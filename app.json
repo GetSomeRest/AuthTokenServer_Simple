@@ -1,0 +1,7 @@
+{
+  "name": "AuthTokenServer",
+  "description": "Simple AuthTokenServer ",
+  "repository": "",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"]
+}

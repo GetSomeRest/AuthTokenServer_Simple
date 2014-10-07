@@ -1,0 +1,9 @@
+{
+  "name": "AdskAuthTokenServer",
+  "description": "generate auth tokens for Adsk PaaS Services",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "4.9.0"
+  }
+}
