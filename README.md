@@ -1,4 +1,6 @@
-INSTRUCTIONS - Setting up a simple AuthTokenServer using Node.js
+# Deprecated sample - not maintained anymore (Summer 2016)
+
+## INSTRUCTIONS - Setting up a simple AuthTokenServer using Node.js
 
   1)  Install node.js:  http://nodejs.org/download/
   
